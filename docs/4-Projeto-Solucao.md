@@ -96,12 +96,8 @@ Utilize a ferramenta **[BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/in
 ### 4.4.2 Esquema Relacional
 
 O **Esquema Relacional** converte o Modelo ER para tabelas relacionais, incluindo chaves primárias, estrangeiras e restrições de integridade.  
-Utilize o **[MySQL Workbench](https://www.mysql.com/products/workbench/)** para gerar o diagrama de tabelas (Modelo Lógico).
 
-**Orientações:**
-- Inclua todos os atributos das entidades.
-- Defina tipos de dados adequados para cada campo.
-- Configure as restrições de integridade (NOT NULL, UNIQUE, FOREIGN KEY, etc.).
+[MODELO FISICO.pdf](https://github.com/user-attachments/files/22959487/MODELO.FISICO.pdf)
 
 📌 **Entrega:** exporte o diagrama do Workbench e adicione a imagem aqui.
 
